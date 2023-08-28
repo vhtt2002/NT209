@@ -1,0 +1,11 @@
+*Câu 2.1:
+- Nhan thay 2 so khi XOR voi nhau neu co cung la 0 hoac la 1 (Cung am hoac cung duong) thi se tra ve la 0
+- Su dung thuat toan xet dau co trong file huong dan de xet dau 2 so xong sau do XOR lai de xet ket qua
+*Câu 2.2:
+- Ta thay cac so chia het cho 8 cac bit cua no co dand 1xxxxx.... voi x la 0 nen khi dich trai 3 bit roi lai dich phai 3 bit neu no bang so ban dau thi no la so chia het cho 8
+*Câu 2.3:
+- vd: x là so duong thi dich phai 32 bit x se la 00000... và tuong tu -x la 111111...
+- Ket qua cua x - (-x) sau khi duoc dich phai là 1 neuu x la duong va -1 neu x là so am
+*Câu 2.4:
+- Kiem tra tinh âm duong cua 2^n - x se biet duoc x có lon hon 2^n hay khong  
+ 
